@@ -1,0 +1,26 @@
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/appsettings.Development.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/appsettings.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/CRUD App C#
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/CRUD App C#.deps.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/CRUD App C#.runtimeconfig.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/CRUD App C#.dll
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/bin/Debug/net8.0/CRUD App C#.pdb
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.AssemblyInfoInputs.cache
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.AssemblyInfo.cs
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.csproj.CoreCompileInputs.cache
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.MvcApplicationPartsAssemblyInfo.cache
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.sourcelink.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets.build.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets.development.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets/msbuild.CRUD App C#.Microsoft.AspNetCore.StaticWebAssets.props
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets/msbuild.build.CRUD App C#.props
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CRUD App C#.props
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CRUD App C#.props
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/staticwebassets.pack.json
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/scopedcss/bundle/CRUD App C#.styles.css
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.dll
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/refint/CRUD App C#.dll
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.pdb
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/CRUD App C#.genruntimeconfig.cache
+/home/anaktas/code/anaktas24/CRUD-ASP.NET-Core/CRUD App C#/obj/Debug/net8.0/ref/CRUD App C#.dll
